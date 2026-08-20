@@ -23,7 +23,7 @@
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  I'm <b>Marlobb</b>, an Information Security student interested in
+  I'm <b>Marlobb</b>, an CUMT Information Security student interested in
   <br>
   <b>C++</b>, <b>Algorithms</b>, <b>Linux</b> and <b>Computer Networks</b>.
   <br><br>
