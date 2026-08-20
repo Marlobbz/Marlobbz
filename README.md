@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/github/stars/Marlobbz?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117&label=STARS" alt="GitHub Stars"/>
 </p>
 
-
 </div>
 
 ---
@@ -49,9 +48,7 @@
 
 <div align="center">
 
-![
-
-![](https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)](https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Learning-7C3AED?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-Tools-F05032?style=flat-square\&logo=git\&logoColor=white)
