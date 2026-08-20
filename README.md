@@ -25,7 +25,7 @@
 <p align="center">
   I'm <b>Marlobb</b>, an CUMT Information Security student interested in
   <br>
-  <b>C++</b>, <b>Algorithms</b>, <b>Linux</b> and <b>Computer Networks</b>.
+  <b>C++</b>,<b>CTF</b>, <b>Algorithms</b>, <b>Linux</b> and <b>Computer Networks</b>.
   <br><br>
   I enjoy learning through practice, solving problems,
   <br>
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Learning-7C3AED?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-Tools-F05032?style=flat-square\&logo=git\&logoColor=white)
