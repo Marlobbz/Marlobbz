@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Marlobbz&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=C%2B%2B%20%C2%B7%20Cybersecurity%20%C2%B7%20Algorithms&descAlignY=62&descSize=17" />
 
 <br>
@@ -15,6 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=Marlobbz&style=for-the-badge&color=7C3AED&label=VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/stars/Marlobbz?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117&label=STARS" alt="GitHub Stars"/>
 </p>
+
 
 </div>
 
@@ -35,31 +37,10 @@
 
 ---
 
-<h2 align="center">🛠️ Skills & Tools</h2>
-
-<div align="center">
-
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,linux,git,github,vscode&perline=8" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-Learning-7C3AED?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-Tools-F05032?style=flat-square\&logo=git\&logoColor=white)
-
-</div>
-
----
-
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
+
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marlobbz&theme=tokyonight" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marlobbz&theme=tokyonight" width="32%" />
@@ -76,10 +57,12 @@
 <div align="center">
 
 
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Marlobbz/Marlobbz/output/github-contribution-grid-snake-dark.svg">
+
 
 
 <source
@@ -95,12 +78,13 @@
 
 ---
 
-<h2 align="center">🚀 Currently Learning</h2>
+<h2 align="center">🛠️ Skills & Tools</h2>
 
 <div align="center">
 
 
-`C++` · `Data Structures` · `Algorithms` · `Linux` · `Networking` · `Cybersecurity`
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,linux,git,github,vscode&perline=8" />
 
 </div>
 
@@ -108,7 +92,29 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,linux,git,github&perline=4" />
+
+![C++](https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-Learning-7C3AED?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Tools-F05032?style=flat-square\&logo=git\&logoColor=white)
+
+</div>
+
+---
+
+<h2 align="center">🚀 Currently Learning</h2>
+
+<div align="center">
+
+
+
+`C++` · `Data Structures` · `Algorithms` · `Linux` · `Networking` · `Cybersecurity`·CTF
+
+</div>
+
+<br>
+
+<div align="center">
 
 </div>
 
@@ -119,9 +125,11 @@
 </p>
 
 
+
 <br>
 
 <div align="center">
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%"/>
