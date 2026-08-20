@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Marlobb&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=C%2B%2B%20%C2%B7%20Cybersecurity%20%C2%B7%20Algorithms&descAlignY=62&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Marlobbz&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=C%2B%2B%20%C2%B7%20Cybersecurity%20%C2%B7%20Algorithms&descAlignY=62&descSize=17" />
 
 <br>
 
@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/Marlobb">
-    <img src="https://img.shields.io/badge/GitHub-Marlobb-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Marlobbz-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Marlobb&style=for-the-badge&color=7C3AED&label=VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/stars/Marlobb?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117&label=STARS" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Marlobbz&style=for-the-badge&color=7C3AED&label=VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/stars/Marlobbz?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117&label=STARS" alt="GitHub Stars"/>
 </p>
 
 </div>
@@ -82,14 +82,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Marlobb/Marlobb/output/github-contribution-grid-snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/Marlobbz/Marlobbz/output/github-contribution-grid-snake-dark.svg">
 
 <source
  media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/Marlobb/Marlobb/output/github-contribution-grid-snake.svg">
+ srcset="https://raw.githubusercontent.com/Marlobbz/Marlobbz/output/github-contribution-grid-snake.svg">
 
 <img
- src="https://raw.githubusercontent.com/Marlobb/Marlobb/output/github-contribution-grid-snake-dark.svg"
+ src="https://raw.githubusercontent.com/Marlobbz/Marlobbz/output/github-contribution-grid-snake-dark.svg"
  alt="GitHub Contribution Snake"
  width="100%"> </picture>
 
@@ -102,7 +102,7 @@
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/Marlobb/Marlobb/main/profile-3d-contrib/profile-night-rainbow.svg"
+src="https://raw.githubusercontent.com/Marlobbz/Marlobbz/main/profile-3d-contrib/profile-night-rainbow.svg"
 alt="3D Contribution Graph"
 width="100%">
 
