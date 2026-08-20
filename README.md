@@ -3,7 +3,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Marlobb&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=C%2B%2B%20%C2%B7%20Cybersecurity%20%C2%B7%20Algorithms&descAlignY=62&descSize=17" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&duration=2000\&pause=500\&color=A78BFA\&center=true\&vCenter=true\&width=650\&lines=C%2B%2B+Developer+%7C+Algorithm+Explorer;Information+Security+Student;Algorithms+%C2%B7+Linux+%C2%B7+Networking;Learning+by+Building)](https://git.io/typing-svg)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&duration=2000\&pause=500\&color=A78BFA\&center=true\&vCenter=true\&width=700\&lines=C%2B%2B+Developer+%7C+Algorithm+Explorer;Information+Security+Student;Algorithms+%C2%B7+Linux+%C2%B7+Networking;Learning+by+Building)](https://git.io/typing-svg)
+
+<br>
 
 <p align="center">
   <a href="https://github.com/Marlobb">
@@ -17,23 +21,21 @@
 
 ---
 
-<h2 align="center">
-  👋 About Me
-</h2>
+<h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  I'm <b>Marlobb</b>, an Information Security student who enjoys exploring
-  <br/>
+  I'm <b>Marlobb</b>, an Information Security student interested in
+  <br>
   <b>C++</b>, <b>Algorithms</b>, <b>Linux</b> and <b>Computer Networks</b>.
-  <br/><br/>
-  Currently learning, experimenting and building things step by step.
+  <br><br>
+  I enjoy learning through practice, solving problems,
+  <br>
+  and building small projects along the way.
 </p>
 
 ---
 
-<h2 align="center">
-  🛠️ Skills & Tools
-</h2>
+<h2 align="center">🛠️ Skills & Tools</h2>
 
 <div align="center">
 
@@ -41,7 +43,7 @@
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
@@ -54,9 +56,7 @@
 
 ---
 
-<h2 align="center">
-  📊 GitHub Statistics
-</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
@@ -76,37 +76,42 @@
 
 ---
 
-<h2 align="center">
-  🐍 Contribution Activity
-</h2>
+<h2 align="center">🐍 Contribution Activity</h2>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marlobb/Marlobb/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marlobb/Marlobb/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Marlobb/Marlobb/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Marlobb/Marlobb/output/github-contribution-grid-snake-dark.svg">
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Marlobb/Marlobb/output/github-contribution-grid-snake.svg">
+
+<img
+ src="https://raw.githubusercontent.com/Marlobb/Marlobb/output/github-contribution-grid-snake-dark.svg"
+ alt="GitHub Contribution Snake"
+ width="100%"> </picture>
 
 </div>
 
 ---
 
-<h2 align="center">
-  📈 3D Contributions
-</h2>
+<h2 align="center">📈 3D Contributions</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Marlobb/Marlobb/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+<img
+src="https://raw.githubusercontent.com/Marlobb/Marlobb/main/profile-3d-contrib/profile-night-rainbow.svg"
+alt="3D Contribution Graph"
+width="100%">
 
 </div>
 
 ---
 
-<h2 align="center">
-  🚀 Currently Learning
-</h2>
+<h2 align="center">🚀 Currently Learning</h2>
 
 <div align="center">
 
@@ -114,17 +119,28 @@
 
 </div>
 
-<br/>
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,linux,git,github&perline=4" />
+
+</div>
+
+<br>
 
 <p align="center">
   <i>Keep learning. Keep building. Keep exploring.</i>
 </p>
+
+<br>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
+
 
 <!--
 **Marlobbz/Marlobbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
