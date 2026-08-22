@@ -27,7 +27,7 @@
 <p align="center">
   I'm <b>Marlobb</b>, an CUMT Information Security student interested in
   <br>
-  <b>C++</b>,<b>CTF</b>, <b>Algorithms</b>, <b>Linux</b> and <b>Computer Networks</b>.
+  <b>C++</b>,<b>CTF</b>, <b>Algorithms</b>, and <b>Computer Networks</b>.
   <br><br>
   I enjoy learning through practice, solving problems,
   <br>
@@ -108,7 +108,7 @@
 
 
 
-`C++` · `Data Structures` · `Algorithms` · `Linux` · `Networking` · `Cybersecurity`·CTF
+`C++` · `Data Structures` · `Algorithms` · `Networking` · `Cybersecurity`·CTF
 
 </div>
 
